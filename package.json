@@ -2,7 +2,7 @@
   "name": "LostforIndia",
   "displayName": "LostforIndia",
   "description": "Personalized Theme for whitewashed screens",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.92.0"
   },
