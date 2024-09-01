@@ -1,0 +1,45 @@
+{
+  "name": "LostforIndia",
+  "displayName": "LostforIndia",
+  "description": "Personalized Theme for whitewashed screens",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "LostforIndia",
+  "keywords": [
+    "theme",
+    "light",
+    "white",
+    "plain",
+    "clean",
+    "minimal",
+    "focus",
+    "focused",
+    "flushed",
+    "nondark",
+    "code",
+    "coder",
+    "pale",
+    "eye",
+    "lighter",
+    "simple",
+    "minimal theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LostforIndia",
+        "uiTheme": "vs",
+        "path": "./themes/LostforIndia-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashut0shk/LostforIndia"
+  }
+}
