@@ -5,7 +5,7 @@
 		"editor.foreground": "#333333",
         "list.activeSelectionIconForeground": "#fff"
 	},
-  "tokenColors": "./LostforIndia.tmTheme",
+  "tokenColors": "../LostforIndia.tmTheme",
 	"tokenColors12": [
 		{
 			"name": "Comments",
